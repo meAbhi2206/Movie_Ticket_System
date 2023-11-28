@@ -58,7 +58,7 @@ Contributions to this project are welcome. If you want to make improvements or a
 Developed by Abhishek.
 
 ## Support or Contact
-If you have any questions or need assistance, please contact [your email address].
+If you have any questions or need assistance, please contact [abhishekr2206@gmail.com].
 
 Feel free to raise issues or suggest improvements. Happy movie ticket booking!
 
